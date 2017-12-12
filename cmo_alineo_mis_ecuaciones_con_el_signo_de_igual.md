@@ -1,0 +1,1 @@
+{% include "git+https://github.com/catedu/libreOffice-la-suite-ofimatica-libre.git/cmo_alineo_mis_ecuaciones_con_el_signo_de_igual.md" %}

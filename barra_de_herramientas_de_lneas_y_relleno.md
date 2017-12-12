@@ -1,0 +1,1 @@
+{% include "git+https://github.com/catedu/libreOffice-la-suite-ofimatica-libre.git/barra_de_herramientas_de_lneas_y_relleno.md" %}

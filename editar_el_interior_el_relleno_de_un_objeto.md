@@ -1,0 +1,1 @@
+{% include "git+https://github.com/catedu/libreOffice-la-suite-ofimatica-libre.git/editar_el_interior_el_relleno_de_un_objeto.md" %}

@@ -1,0 +1,1 @@
+{% include "git+https://github.com/catedu/libreOffice-la-suite-ofimatica-libre.git/mover_y_ajustar_dinmicamente_el_tamao_de_un_objeto.md" %}
