@@ -1,1 +1,22 @@
-{"plugins": ["youtube", "accordion", "edit-link", "githubcontributors"], "pluginsConfig": {"edit-link": {"base": "https://github.com/catedu/libreoffice-draw-math/edit/master", "label": "Edita esta página"}, "githubcontributors": {"githubOwner": "catedu", "githubRepository": "libreoffice-draw-math"}}}
+{
+  "plugins": [
+    "youtube",
+    "accordion",
+    "edit-link",
+    "githubcontributors",
+    "ga"
+  ],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/catedu/libreoffice-draw-math/edit/master",
+      "label": "Edita esta página"
+    },
+    "githubcontributors": {
+      "githubOwner": "catedu",
+      "githubRepository": "libreoffice-draw-math"
+    },
+    "ga": {
+      "token": "UA-135691041-2"
+    }
+  }
+}
